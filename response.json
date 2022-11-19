@@ -1,0 +1,248 @@
+{
+    "def": [
+        {
+            "pos": "сущ",
+            "text": "addition",
+            "tr": [
+                {
+                    "ex": [
+                        {
+                            "text": "proposed addition",
+                            "tr": [
+                                {
+                                    "text": "предлагаемое дополнение"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "addition of sugar",
+                            "tr": [
+                                {
+                                    "text": "добавление сахара"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "law of velocity addition",
+                            "tr": [
+                                {
+                                    "text": "закон сложения скоростей"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "addition to the family",
+                            "tr": [
+                                {
+                                    "text": "прибавление семейства"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "food addition",
+                            "tr": [
+                                {
+                                    "text": "пищевая добавка"
+                                }
+                            ]
+                        }
+                    ],
+                    "fr": 10,
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "supplement"
+                        },
+                        {
+                            "text": "adding"
+                        },
+                        {
+                            "text": "add"
+                        }
+                    ],
+                    "pos": "сущ",
+                    "syn": [
+                        {
+                            "fr": 10,
+                            "gen": "ср",
+                            "pos": "сущ",
+                            "text": "добавление"
+                        },
+                        {
+                            "fr": 5,
+                            "gen": "ср",
+                            "pos": "сущ",
+                            "text": "сложение"
+                        },
+                        {
+                            "fr": 5,
+                            "gen": "ср",
+                            "pos": "сущ",
+                            "text": "прибавление"
+                        },
+                        {
+                            "fr": 5,
+                            "gen": "ж",
+                            "pos": "сущ",
+                            "text": "добавка"
+                        }
+                    ],
+                    "text": "дополнение"
+                },
+                {
+                    "ex": [
+                        {
+                            "text": "addition product",
+                            "tr": [
+                                {
+                                    "text": "продукт присоединения"
+                                }
+                            ]
+                        }
+                    ],
+                    "fr": 1,
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "accession"
+                        }
+                    ],
+                    "pos": "сущ",
+                    "text": "присоединение"
+                },
+                {
+                    "ex": [
+                        {
+                            "text": "recent addition",
+                            "tr": [
+                                {
+                                    "text": "недавнее пополнение"
+                                }
+                            ]
+                        }
+                    ],
+                    "fr": 1,
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "replenishment"
+                        }
+                    ],
+                    "pos": "сущ",
+                    "text": "пополнение"
+                },
+                {
+                    "ex": [
+                        {
+                            "text": "solid addition",
+                            "tr": [
+                                {
+                                    "text": "солидная прибавка"
+                                }
+                            ]
+                        }
+                    ],
+                    "fr": 1,
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "increase"
+                        }
+                    ],
+                    "pos": "сущ",
+                    "text": "прибавка"
+                },
+                {
+                    "fr": 1,
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "extension"
+                        }
+                    ],
+                    "pos": "сущ",
+                    "text": "пристройка"
+                },
+                {
+                    "fr": 1,
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "allowance"
+                        }
+                    ],
+                    "pos": "сущ",
+                    "text": "надбавка"
+                },
+                {
+                    "fr": 1,
+                    "gen": "ж",
+                    "mean": [
+                        {
+                            "text": "postscript"
+                        }
+                    ],
+                    "pos": "сущ",
+                    "text": "приписка"
+                },
+                {
+                    "fr": 1,
+                    "gen": "ср",
+                    "mean": [
+                        {
+                            "text": "summation"
+                        }
+                    ],
+                    "pos": "сущ",
+                    "text": "суммирование"
+                }
+            ],
+            "ts": "əˈdɪʃn"
+        },
+        {
+            "pos": "прил",
+            "text": "addition",
+            "tr": [
+                {
+                    "ex": [
+                        {
+                            "text": "addition information",
+                            "tr": [
+                                {
+                                    "text": "дополнительная информация"
+                                }
+                            ]
+                        }
+                    ],
+                    "fr": 5,
+                    "mean": [
+                        {
+                            "text": "additional"
+                        }
+                    ],
+                    "pos": "прил",
+                    "text": "дополнительный"
+                }
+            ],
+            "ts": "əˈdɪʃn"
+        },
+        {
+            "pos": "предл",
+            "text": "addition",
+            "tr": [
+                {
+                    "fr": 1,
+                    "mean": [
+                        {
+                            "text": "over"
+                        }
+                    ],
+                    "pos": "предл",
+                    "text": "сверх"
+                }
+            ],
+            "ts": "əˈdɪʃn"
+        }
+    ],
+    "head": {}
+}
